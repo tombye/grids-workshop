@@ -19,7 +19,8 @@ Files for a workshop on CSS grids.
 
 ###Three column
 
-* [3-col grid using floats](http://jsbin.com/OLaXulI/8/)
+* [3-col grid using floats in row containers](http://jsbin.com/OLaXulI/8/)
+* [3 rows of 2-col columns without row containers](http://jsbin.com/AzEDaReh/1/)
 * [3-col grid using display-inline](http://jsbin.com/UVeWuJe/1/)
 
 ###Variations
