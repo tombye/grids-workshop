@@ -4,7 +4,7 @@ Files for a workshop on CSS grids.
 
 ##Grid examples
 
-* [Flow content with floating elements](http://jsbin.com/AfAzaMiP/1/)
+* [Flow content with floating elements](http://jsbin.com/AfAzaMiP/2/)
 
 ###Single column
 
