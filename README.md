@@ -34,3 +34,8 @@ Files for a workshop on CSS grids.
 * [https://www.gov.uk/government/how-government-works](https://www.gov.uk/government/how-government-works)(various floating column combinations, nicely named)
 * [https://www.gov.uk/bank-holidays](https://www.gov.uk/bank-holidays)(position: absolute side-column)
 * [https://www.gov.uk/browse/working](https://www.gov.uk/browse/working)(floating 3-col without internal spacing divs)
+
+##References
+
+* [http://learnlayout.com/](http://learnlayout.com/)
+* [How users read - for column sizing relative to words on a line](https://www.gov.uk/service-manual/user-centered-design/how-users-read.html)
